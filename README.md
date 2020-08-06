@@ -20,4 +20,4 @@ While this course will incorporate the skills learned in 211 and 311, the main f
 
 - [Rocket Chat Channel (Cohort 1, 2020)](https://chat.austincodingacademy.com/channel/ACA_Cohort-1_2020)
 
-- [Presentation Schedule (Cohort 1, 2020)](./cohort-8-2019/presentation-schedule.md)
+<!-- - [Presentation Schedule (Cohort 1, 2020)](./cohort-8-2019/presentation-schedule.md) -->

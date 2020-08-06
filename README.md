@@ -14,7 +14,7 @@ While this course will incorporate the skills learned in 211 and 311, the main f
 
   - For grading rubric, refer to `JS 411 Overview` > `Overview` > `Class Structure & Expectations`
 
-- [Assignment Submission Guide](./assignment-submission-guide.md)
+- [Project Submission Guide](./project-submission.md)
 
 ### Current Cohort
 
